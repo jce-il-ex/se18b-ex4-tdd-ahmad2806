@@ -1,6 +1,7 @@
 var test = require('tape'); // assign the tape library to the variable "test"
 
 function sum (a, b) {
+    return a+b;
   // your code to make the test pass goes here ...
 }
 
